@@ -23,4 +23,9 @@ This project demonstrates fundamental web development concepts including:
 ---
 
 ## 📂 Project Structure
+## 🔗 Live Demo
+
+Check out the project on **CodePen**:  
+[View my E-Commerce Project on CodePen](https://codepen.io/Rosaline-Rastegar/pen/vELdJQr)
+
 
